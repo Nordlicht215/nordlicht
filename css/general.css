@@ -1,0 +1,15 @@
+body{
+    background-color: lightcyan;
+}
+h1{
+    font-family: 'Ink Free';
+    color: darkslateblue;
+    border: solid 2px darkslategray;
+}
+p{
+    font-weight: bold;
+    color:cornflowerblue
+}
+#banner{
+    width: 215px;
+}

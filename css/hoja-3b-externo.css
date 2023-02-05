@@ -1,0 +1,19 @@
+h1{
+    color: cornflowerblue;
+    font-style: italic;
+}
+tr{
+    color: darkslateblue;
+    font-style: bold; 
+    font-size: 16pt;}
+.dt{
+    color:darkslategray;
+    font-style: inherit;
+    font-size: 15pt ;
+}
+#text{
+    color: blueviolet;}
+.phr{
+    color:midnightblue;
+    font-style: italic;
+}
