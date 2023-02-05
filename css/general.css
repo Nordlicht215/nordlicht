@@ -4,7 +4,8 @@ body{
 h1{
     font-family: 'Ink Free';
     color: darkslateblue;
-    border: solid 2px darkslategray;
+    border: solid 2px darkcyan;
+    padding: 10;
 }
 p{
     font-weight: bold;
